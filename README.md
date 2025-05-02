@@ -1,8 +1,7 @@
 # Moon Hacker - IP Finder
 
-**Moon Hacker IP Finder** ایک آسان اور تیز tool ہے جو کسی بھی ویب سائٹ کا IP address تلاش کرنے کے لیے استعمال ہوتا ہے۔
-
-## ⚙️ Requirements
+**Moon Hacker IP Finder** A tool who find any website ip address
+## ⚙️ Requirement
 - Python 3
 - Internet Connection
 
@@ -15,6 +14,10 @@ pip install -r requirements.txt
 ## ▶️ Usage
 
 ```bash
+git clone https://github.com/ceh419/Moon-hacker-ip-founder-.git
+ls
+cd Moon-hacker-ip-founder-
+ls
 python3 ip_finder.py
 ```
 
