@@ -1,19 +1,30 @@
-# IP Finder Tool
+# Moon Hacker - IP Finder
 
-A basic ethical hacking tool made in Python to find the IP address of any domain.
+**Moon Hacker IP Finder** ایک آسان اور تیز tool ہے جو کسی بھی ویب سائٹ کا IP address تلاش کرنے کے لیے استعمال ہوتا ہے۔
 
-## How to Use
+## ⚙️ Requirements
+- Python 3
+- Internet Connection
+
+Install dependencies:
 
 ```bash
-python ip_finder.py
+pip install -r requirements.txt
 ```
 
-## Example
+## ▶️ Usage
+
+```bash
+python3 ip_finder.py
+```
+
+Then enter a website domain, e.g.:
 
 ```
-Enter website URL (e.g. google.com): google.com
-IP address of google.com is: 142.250.72.206
+Enter website URL (e.g. google.com): amazon.com
+IP address of amazon.com is: 54.239.28.85
 ```
 
-## Disclaimer
-This tool is for **educational and ethical purposes only**. Do not use it for illegal activities.
+## 🧠 Developed By:
+**ceh419**  
+For learning and ethical use only.
